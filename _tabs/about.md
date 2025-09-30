@@ -9,3 +9,4 @@ order: 2
 - Email: jakobhoganbusiness@gmail.com
 - LinkedIn: [Jakob Hogan](https://www.linkedin.com/in/jakob-hogan-43664919b/)
 - GitHub: [caeksec](https://github.com/caeksec)
+- Twitter: [Cake](https://x.com/caeksec)
